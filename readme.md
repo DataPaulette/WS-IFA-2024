@@ -8,6 +8,7 @@ The arduino code to connect this sensors to actuators through an arduino board.
 
 Material kit :
 - Arduino (+ breadBoard)
+![arduino](img_sources/arduino_breadboard.jpg)
 - Ring neopixel WS2812
 - Speaker 8ohm
 - Jumper
@@ -17,4 +18,4 @@ Sensors :
 - On / Off sensor
 - Pressure sensor
 - Tilt sensor
-- Switch button 
+- Switch button
