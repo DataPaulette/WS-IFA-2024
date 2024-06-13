@@ -1,5 +1,4 @@
-This documentation is provided for a workshop of introduction to eTextile given at IFA (International
-Fashion Academy).
+This documentation is provided for a workshop of introduction to eTextile given at [IFA](https://www.ifaparis.com/).
 
 You will find in this repository an introduction to etextile through the work of DataPaulette.
 
