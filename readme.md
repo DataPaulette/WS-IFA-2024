@@ -28,4 +28,4 @@ Sensors :
 - Tilt sensor
 ![tilt](img_sources/tilt_sensor.jpg)
 - Switch button
-![switch](switch_button.jpg)
+![switch](img_sources/switch_button.jpg)
