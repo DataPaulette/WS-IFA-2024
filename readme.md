@@ -6,6 +6,8 @@ A serie of tutorial to create you own sensors
 
 The arduino code to connect this sensors to actuators through an arduino board.
 
+Electronic kit
+![Kit_E](img_sources/kit_electronic.jpg)
 Material kit :
 - Arduino (+ breadBoard)
 ![arduino](img_sources/arduino_breadboard.jpg)
@@ -16,7 +18,8 @@ Material kit :
 - Jumper
 - Alligator clip
 
-
+Textile kit
+![Kit_T](img_sources/kit_textile.jpg)
 Sensors :
 - On / Off sensor
 ![on_off](img_sources/on_off_sensor.jpg)
