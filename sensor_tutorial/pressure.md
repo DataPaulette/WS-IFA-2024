@@ -1,8 +1,8 @@
 ## Pressure sensor
-![pressure](img_sources/pressure_sensor.jpg)
+![pressure](img_sources_tuto/pressure_sensor.jpg)
 
 ### Material parts
-![pressure_tuto_1](img_sources/tuto-pressure-1.jpg)
+![pressure_tuto_1](img_sources_tuto/tuto-pressure-1.jpg)
 1- Conductive pad to connect the sensor to the arduino board after.
 2- Conductive pad for circles
 3- In-between circle in neoprene
