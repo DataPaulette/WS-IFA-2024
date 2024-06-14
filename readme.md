@@ -1,4 +1,4 @@
-This documentation is provided for a workshop of introduction to eTextile given at [IFA](https://www.ifaparis.com/).
+This is the documentation for a workshop of introduction to eTextile.
 
 You will find in this repository an introduction to etextile through the work of DataPaulette.
 [Presentation](https://github.com/DataPaulette/WS-IFA-2024/blob/main/Introduction-DP.pdf)
