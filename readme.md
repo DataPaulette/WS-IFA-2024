@@ -1,8 +1,8 @@
 This is the documentation for a workshop of introduction to eTextile.
 
-You will find in this repository a serie of tutorial to create you own sensors
+You will find in this repository [a serie of tutorial](https://github.com/DataPaulette/WS-intro-DP-Etextile-2024/tree/main/sensor_tutorial) to create you own sensors
 
-The arduino code to connect this sensors to actuators through an arduino board.
+The [arduino code](https://github.com/DataPaulette/WS-intro-DP-Etextile-2024/tree/main/Arduino-code) to connect this sensors to actuators through an arduino board.
 
 Electronic kit
 ![Kit_E](img_sources/kit_electronic.jpg)
