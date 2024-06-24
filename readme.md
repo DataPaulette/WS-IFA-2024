@@ -4,9 +4,9 @@ You will find in this repository [a serie of tutorial](https://github.com/DataPa
 
 The [arduino code](https://github.com/DataPaulette/WS-intro-DP-Etextile-2024/tree/main/Arduino-code) to connect this sensors to actuators through an arduino board.
 
-Electronic kit
+### Electronic kit
 ![Kit_E](img_sources/kit_electronic.jpg)
-Material kit :
+#### Content :
 - Arduino (+ breadBoard)
 ![arduino](img_sources/arduino_breadboard.jpg)
 - Ring neopixel WS2812
@@ -16,9 +16,9 @@ Material kit :
 - Jumper
 - Alligator clip
 
-Textile kit
+### Textile kit
 ![Kit_T](img_sources/kit_textile.jpg)
-Sensors :
+#### Sensors :
 - On / Off sensor
 ![on_off](img_sources/on_off_sensor.jpg)
 - Pressure sensor
