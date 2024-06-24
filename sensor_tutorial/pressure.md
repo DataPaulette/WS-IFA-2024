@@ -29,8 +29,6 @@
 --
 ![pressure_tuto_2-9](img_sources_tuto/pressure-step9.png)
 --
-![pressure_tuto_2-10](img_sources_tuto/pressure-step10.png)
---
 ![pressure_tuto_2-11](img_sources_tuto/pressure-step11.png)
 --
 ![pressure_tuto_2-12](img_sources_tuto/pressure-step12.png)
