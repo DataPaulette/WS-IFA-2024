@@ -1,8 +1,6 @@
 This is the documentation for a workshop of introduction to eTextile.
 
-You will find in this repository an introduction to etextile through the work of DataPaulette.
-[Presentation](https://github.com/DataPaulette/WS-IFA-2024/blob/main/Introduction-DP.pdf)
-A serie of tutorial to create you own sensors
+You will find in this repository a serie of tutorial to create you own sensors
 
 The arduino code to connect this sensors to actuators through an arduino board.
 
