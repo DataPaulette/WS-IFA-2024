@@ -12,3 +12,6 @@
 6- Conductive thread
 
 ### Step by Step
+
+![on_off_tuto_2-1](img_sources_tuto/on-off-step1.heic)
+
