@@ -1,7 +1,7 @@
 ## Tilt sensor
 
 ### Material parts
-![tilt_tuto_1](img_sources_tuto/tuto-tilt-1.jpg)
+![tilt_tuto_1](img_sources_tuto/tuto-tilt-1.png)
 1. Conductive pad to connect the sensor to the arduino board after
 2. Conductive pad for tilt
 3. Conductive bell for tilt
