@@ -1,6 +1,4 @@
 ## On / Off sensor
-![on_off](img_sources_tuto/on_off_sensor.jpg)
-
 
 ### Material parts
 ![on_off_tuto_1](img_sources_tuto/tuto-on-off-1.png)
