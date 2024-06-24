@@ -4,6 +4,8 @@ You will find in this repository [a serie of tutorial](https://github.com/DataPa
 
 The [arduino code](https://github.com/DataPaulette/WS-intro-DP-Etextile-2024/tree/main/Arduino-code) to connect this sensors to actuators through an arduino board.
 
+And [a schematic](https://github.com/DataPaulette/WS-intro-DP-Etextile-2024/blob/main/HowToConnectSensorToArduino.png) to see how to connect sensors to the arduino.
+
 ### Electronic kit
 ![Kit_E](img_sources/kit_electronic.jpg)
 #### Content :
